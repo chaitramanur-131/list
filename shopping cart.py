@@ -1,0 +1,10 @@
+shopping_cart=[50,80,90,120,150,200]
+print("price:",shopping_cart)
+total=sum(shopping_cart)
+print("total:",total)
+expensive_price=max(shopping_cart)
+print("expenssive_price:",expensive_price)
+count=len(shopping_cart)
+print("count:",count)
+remove=shopping_cart.remove(120)
+print("remove:",shopping_cart)

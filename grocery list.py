@@ -1,0 +1,9 @@
+grocery_list=["salt","rice","sugar"]
+print("grocery_list",grocery_list)
+grocery_list.append("oil")
+print("grocery_list",grocery_list)
+grocery_list.insert(2,"wheat")
+print("grocery_list",grocery_list)
+grocery_list.remove("sugar")
+print("grocery_list",grocery_list)
+print(grocery_list)
